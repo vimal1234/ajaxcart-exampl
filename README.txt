@@ -1,14 +1,4 @@
-/*
-********================================*****************
-* Shopping Cart Version 4.0 
-* Written by Vasplus Programming Blog
-* Website: www.vasplus.info
-* All Copy Rights Reserved by Vasplus Programming Blog
-*********=================================****************
-*/
 
-
-This script is brought to you by Vasplus Programming Blog to whom all copy rights are reserved.
 
 
 After you have openned the shopping_cart_version_4.0 directory, do the following:
